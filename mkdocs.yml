@@ -1,0 +1,53 @@
+site_name: HULK Rijeka
+site_url: https://www.ri.linux.hr/
+site_description: Riječka podružnica Hrvatske udruge Linux korisnika
+site_author: Hrvatska udruga Linux korisnika
+copyright: Copyright &copy; 1998 -- 2019 <a href="http://www.linux.hr/">Hrvatska udruga Linux korisnika</a>. All rights reserved. Source code <a href="https://github.com/linuxhr/hulk-ri">available</a>. Mirrored on <a href="https://pages.github.com/">GitHub Pages</a>; deployed using a <a href="/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">script from GASERI</a>.
+
+theme:
+  name: material
+  language: hr
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+plugins:
+  - search
+  - social
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+          normalize: NFD
+      archive_url_date_format: yyyy/MM
+      archive_url_format: "{date}"
+  - tags:
+      tags_file: oznake.md
