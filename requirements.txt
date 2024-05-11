@@ -1,2 +1,1 @@
-mkdocs[i18n]
-mkdocs-material[imaging]
+mkdocs-material[recommended,imaging]

@@ -44,4 +44,3 @@ Sva predavanja su snimljena (zahvaljujući [Davidu Dubroviću](https://www.antar
 <iframe src="https://www.youtube.com/embed/G8UWxleuzTo" title="YouTube video player" style="border: 1px solid black; width: 100%; height: 25rem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://www.youtube.com/embed/gFuTZPvsiWo" title="YouTube video player" style="border: 1px solid black; width: 100%; height: 25rem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-

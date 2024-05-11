@@ -13,4 +13,4 @@ authors:
 
 Nova sezona OpenClassova 2018/2019. započinje **6.12.18.** (lako se pamti) u popodnevnim satima u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129). Točno vrijeme, predavač i tema bit će najavljeni kroz koji dan.
 
-[Pratite nas](../podruznica.md#komunikacijski-kanali-podruznice) na našim komunikacijskim kanalima!
+[Pratite nas](../podruznica.md#komunikacijski-kanali-hulk-ri) na našim komunikacijskim kanalima!

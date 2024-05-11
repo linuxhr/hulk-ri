@@ -15,6 +15,6 @@ Naša incijativa održavanja predavanja svaka dva tjedna dobila je i ime: [OpenC
 
 <!-- more -->
 
-Ukoliko želite održati predavanje o nekoj temi kojom se bavite, a ima veze sa slobodnim softverom, [javite nam se](../podruznica.md#komunikacijski-kanali-podruznice)! Ukoliko je tema dobra, vrlo rado ćemo vam dati priliku. Ukoliko je ta tema nešto čega se dosad uopće nismo dotakli, _tim bolje_.
+Ukoliko želite održati predavanje o nekoj temi kojom se bavite, a ima veze sa slobodnim softverom, [javite nam se](../podruznica.md#komunikacijski-kanali-hulk-ri)! Ukoliko je tema dobra, vrlo rado ćemo vam dati priliku. Ukoliko je ta tema nešto čega se dosad uopće nismo dotakli, _tim bolje_.
 
 Naš najavljeni _značajni novitet_ je zbog vremenskih neprilika i blokiranih cesta odgođen nakratko, ali vjerujemo da će se snijeg i bura u Rijeci smiriti i da ćemo vam ga moći predstaviti vrlo skoro.

@@ -48,7 +48,7 @@ Izvor slike: [Pixabay](https://pixabay.com/vectors/christmas-santa-claus-tux-xma
 
 Najave svih događaja ići će pravovremeno na našim komunikacijskim kanalima pa nas pratite.
 
-[Pratite nas na Facebooku, Twitteru i Zulipu](../podruznica.md#komunikacijski-kanali-podruznice)!
+[Pratite nas na Facebooku, Twitteru i Zulipu](../podruznica.md#komunikacijski-kanali-hulk-ri)!
 
 ## Lokacija održavanja aktivnosti
 

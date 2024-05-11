@@ -26,4 +26,4 @@ U planu nam je tijekom iduće kalendarske godine održati nekoliko [OpenClassova
 - [CORE](https://www.nrl.navy.mil/itd/ncs/products/core)
 - [Bitcoin](https://bitcoin.org/)
 
-Cilj nam je uvijek pokriti teme koje ljudi traže, tako da ako imate prijedlog ili ako želite održati predavanje, [javite nam se](../podruznica.md#komunikacijski-kanali-podruznice).
+Cilj nam je uvijek pokriti teme koje ljudi traže, tako da ako imate prijedlog ili ako želite održati predavanje, [javite nam se](../podruznica.md#komunikacijski-kanali-hulk-ri).

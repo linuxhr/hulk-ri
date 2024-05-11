@@ -47,7 +47,7 @@ Sastanke smo održavali u **Hotelu Kontinental** u Rijeci, no, vremenom su se ti
 
 ## Pokretanje podružnice nakon stanke
 
-Podružnica je ponovno pokrenuta na jesen 2009. godine, od kada se izmijenilo nekoliko koordinatora. 
+Podružnica je ponovno pokrenuta na jesen 2009. godine, od kada se izmijenilo nekoliko koordinatora.
 
 Dana **11\. listopada 2009.** godine ili, epskije zapisano, [**11.10.09.**](https://youtu.be/AzwBeDV5IAY?t=80), podružnica je ponovno počela s djelovanjem. Novi koordinator podružnice, treći po redu, je tada postao [**Vedran**](https://vedran.miletic.net/) [**Miletić**](https://www.miletic.net/).
 
@@ -65,7 +65,7 @@ Naša trenutna inicijativa je održavanje predavanja o interesantnim i aktualnim
 
 ### Distribucije Linuxa
 
-Na redovnoj bazi [organiziramo instalaciju (GNU/)Linux distribucija](aktivnosti.md#openclass), a na pojedinačnoj bazi pomažemo [putem IRC-a](#komunikacijski-kanali-podruznice). Na pitanje [koju distribuciju odabrati](https://distrowatch.com/dwres.php?resource=faq#newtolinux), naš odgovor je sljedeći...
+Na redovnoj bazi [organiziramo instalaciju (GNU/)Linux distribucija](aktivnosti.md#openclass), a na pojedinačnoj bazi pomažemo [putem IRC-a](#komunikacijski-kanali-hulk-ri). Na pitanje [koju distribuciju odabrati](https://distrowatch.com/dwres.php?resource=faq#newtolinux), naš odgovor je sljedeći...
 
 #### Preporuke: Fedora i Debian
 
@@ -107,7 +107,7 @@ Od Ubuntua imamo sljedeće medije:
 
 Za više informacija [javite se koordinatoru](#kako-do-koordinatora).
 
-## Komunikacijski kanali podružnice
+## Komunikacijski kanali HULK-Ri
 
 ### Društvene mreže
 
