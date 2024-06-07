@@ -214,6 +214,10 @@ Video snimke u arhivi možete gledati direktno klikom na link ako koristite [Fir
     - poster: [PDF](assets/posters/2019-12-11-zaokruzivanje-tech-godine.pdf), [ODG](assets/posters/2019-12-11-zaokruzivanje-tech-godine.odg)
     - [izvještaj](posts/2019-12-12-hulk-ri-sudjelovao-na-1-zaokruzivanju-tech-godine-it-zajednice-rijeka.md)
 
+### DORS/CLUC 2019
+
+- [Vedran](https://vedran.miletic.net/) [Miletić](https://www.miletic.net/) -- [State of open source AMD GPU drivers](https://youtu.be/cWyBkWkzcYM)
+
 ### DORS/CLUC 2015
 
 - [Vedran](https://vedran.miletic.net/) [Miletić](https://www.miletic.net/) -- [Secure Boot: the good, the bad, and secureboot.me](https://youtu.be/mWJj0Gn7SWc)
