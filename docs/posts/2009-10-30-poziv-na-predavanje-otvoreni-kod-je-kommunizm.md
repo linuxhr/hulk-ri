@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Otvoreni kod je Kommunizm?\""
 date: 2009-10-30
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - firefox
@@ -18,7 +18,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na kontroverzno predavanje
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na kontroverzno predavanje
 
 ## Otvoreni kod je Коммунизм?
 

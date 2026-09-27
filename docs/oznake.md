@@ -5,4 +5,4 @@ authors:
   - vedranm
 ---
 
-[TAGS]
+<!-- material/tags -->

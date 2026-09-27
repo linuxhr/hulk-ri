@@ -2,7 +2,7 @@
 title: "Održano prvo predavanje!"
 date: 2009-10-28
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - predavanje
   - rijeka

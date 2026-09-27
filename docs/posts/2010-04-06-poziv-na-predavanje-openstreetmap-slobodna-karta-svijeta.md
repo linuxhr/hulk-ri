@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"OpenStreetMap: slobodna karta svijeta\""
 date: 2010-04-06
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - java
   - openclass
@@ -14,7 +14,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) pod naslovom:
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) pod naslovom:
 
 ## OpenStreetMap: slobodna karta svijeta
 

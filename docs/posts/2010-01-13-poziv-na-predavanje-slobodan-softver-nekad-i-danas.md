@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Slobodan softver nekad i danas\""
 date: 2010-01-13
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - business
   - ibm
@@ -17,7 +17,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
 
 ## Slobodan softver nekad i danas (od hakerske igračke do multimilijunskih korporacija)
 

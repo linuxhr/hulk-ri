@@ -2,7 +2,7 @@
 title: "OpenClass: NumPy"
 date: 2012-06-21
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - numpy
   - openclass
@@ -12,7 +12,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
+[Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
 
 ## NumPy
 

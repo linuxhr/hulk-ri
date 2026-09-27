@@ -2,7 +2,7 @@
 title: "Instalacija Edubuntua 12.04 na RiTehu u terminalskoj računalnoj učionici I8"
 date: 2013-03-24
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - edubuntu
   - ltsp

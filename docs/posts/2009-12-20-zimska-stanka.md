@@ -2,7 +2,7 @@
 title: "Zimska stanka"
 date: 2009-12-20
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - filozofija
   - hulk

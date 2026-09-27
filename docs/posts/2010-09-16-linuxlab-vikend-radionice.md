@@ -2,7 +2,7 @@
 title: "LinuxLab vikend radionice"
 date: 2010-09-16
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - linuxlab
   - ljuska

@@ -2,7 +2,7 @@
 title: "Obilježen Dan slobode računalne grafike i računanja na grafičkim procesorima 2018"
 date: 2018-12-28
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - amd
   - gcfd

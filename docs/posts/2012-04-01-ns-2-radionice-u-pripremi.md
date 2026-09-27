@@ -2,7 +2,7 @@
 title: "ns-2 radionice u pripremi"
 date: 2012-04-01
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - april-fools
   - c

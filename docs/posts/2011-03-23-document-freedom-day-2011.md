@@ -2,7 +2,7 @@
 title: "Document Freedom Day 2011"
 date: 2011-03-23
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - document-foundation

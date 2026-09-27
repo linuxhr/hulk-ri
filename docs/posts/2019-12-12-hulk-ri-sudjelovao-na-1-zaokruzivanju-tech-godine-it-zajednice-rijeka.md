@@ -22,4 +22,4 @@ Izvor slike: [PxHere](https://pxhere.com/en/photo/1209014).
 
 <!-- more -->
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) je sudjelovala s posterom kojim su predstavljene aktivnosti podružnice tijekom proteklih mjeseci. Poster je dostupan za preuzimanje u formatima [OpenDocument Graphics (ODG)](../assets/posters/2019-12-11-zaokruzivanje-tech-godine.odg) i [PDF](../assets/posters/2019-12-11-zaokruzivanje-tech-godine.pdf).
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) je sudjelovala s posterom kojim su predstavljene aktivnosti podružnice tijekom proteklih mjeseci. Poster je dostupan za preuzimanje u formatima [OpenDocument Graphics (ODG)](../assets/posters/2019-12-11-zaokruzivanje-tech-godine.odg) i [PDF](../assets/posters/2019-12-11-zaokruzivanje-tech-godine.pdf).

@@ -2,7 +2,7 @@
 title: "OpenClass: Proslava Dana slobode računalne grafike i računanja na grafičkim procesorima 2018"
 date: 2018-12-13
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - amd
   - dxvk
@@ -18,7 +18,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati četvrtak, **20\. prosinca 2018. u 17 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-028. OpenClass pod naslovom
+[Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati četvrtak, **20\. prosinca 2018. u 17 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-028. OpenClass pod naslovom
 
 ## Dan slobode računalne grafike i računanja na grafičkim procesorima 2018
 

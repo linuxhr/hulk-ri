@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Xorg nije zastario i ne treba ga pisati ispočetka\""
 date: 2010-02-09
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - exa
   - kms
@@ -15,7 +15,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
 
 ## Xorg nije zastario i ne treba ga pisati ispočetka (pregled razvoja upravljačkih programa grafičkih kartica pod Linuxom unatrag godinu dana)
 

@@ -2,7 +2,7 @@
 title: "Instalacija Fedore na računalima u 412 (Odjel za matematiku i Odjel za fiziku)"
 date: 2011-10-08
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - yum

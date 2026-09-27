@@ -2,7 +2,7 @@
 title: "Proslava DFD 2013 na Odjelu za informatiku Sveučilišta u Rijeci"
 date: 2013-03-24
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - document-foundation

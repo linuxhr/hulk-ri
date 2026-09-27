@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Sigurnost na webu\""
 date: 2009-11-16
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - firefox
   - mysql
@@ -17,7 +17,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
 
 ## Sigurnost na webu (što to hakeri znaju, a mi ne?)
 

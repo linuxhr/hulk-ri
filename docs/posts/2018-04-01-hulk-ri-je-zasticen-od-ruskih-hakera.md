@@ -2,7 +2,7 @@
 title: "HULK-Ri je zaštićen od ruskih hakera"
 date: 2018-04-01
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - apache
   - hakiranje
@@ -12,7 +12,7 @@ authors:
   - vedranm
 ---
 
-Brojni su [članci napisani zadnjih mjeseci](https://www.nytimes.com/news-event/russian-election-hacking) o utjecaju ruskih hakera na demokratske izbore i druge institucije diljem svijeta. Zbog toga će vam zasigurno biti drago čuti da je [Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) poduzela brojne mjere predostrožnosti kako bi se zaštitila od te vrlo zabrinjavajuće prijetnje.
+Brojni su [članci napisani zadnjih mjeseci](https://www.nytimes.com/news-event/russian-election-hacking) o utjecaju ruskih hakera na demokratske izbore i druge institucije diljem svijeta. Zbog toga će vam zasigurno biti drago čuti da je [Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) poduzela brojne mjere predostrožnosti kako bi se zaštitila od te vrlo zabrinjavajuće prijetnje.
 
 <!-- more -->
 

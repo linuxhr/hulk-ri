@@ -2,7 +2,7 @@
 title: "Jesen nam se bliži..."
 date: 2010-08-25
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - openclass
   - predavanje

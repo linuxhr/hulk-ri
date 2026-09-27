@@ -2,7 +2,7 @@
 title: "Fedora 15 i Ubuntu 11.04 InstallFest"
 date: 2011-05-22
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - gnome3
@@ -14,7 +14,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
 
 ## Fedora 15 i Ubuntu 11.04 InstallFest
 

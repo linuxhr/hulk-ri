@@ -2,7 +2,7 @@
 title: "Odgoda predavanja Linux na Samsung 730XT terminalima"
 date: 2011-04-19
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - openclass
   - predavanje

@@ -2,7 +2,7 @@
 title: "Nadogradnja na novi WordPress"
 date: 2010-05-29
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - hulk
   - wordpress

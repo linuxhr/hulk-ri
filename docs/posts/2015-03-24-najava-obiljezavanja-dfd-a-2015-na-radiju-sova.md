@@ -2,7 +2,7 @@
 title: "Najava obilježavanja DFD-a 2015 na Radiju Sova"
 date: 2015-03-24
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - libreoffice

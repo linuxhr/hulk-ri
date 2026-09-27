@@ -2,7 +2,7 @@
 title: "OpenClass: Kontinuirana integracija i isporuka u razvoju softvera"
 date: 2019-01-15
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - ci
   - cicd
@@ -13,7 +13,7 @@ authors:
 
 ![CI](../assets/images/continuous-integration.png)
 
-[Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati četvrtak, **17\. siječnja 2019. u 17 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-028. Naslov predavanja:
+[Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati četvrtak, **17\. siječnja 2019. u 17 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-028. Naslov predavanja:
 
 ## Kontinuirana integracija i isporuka u razvoju softvera
 

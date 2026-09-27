@@ -2,7 +2,7 @@
 title: "Došli smo do 300 lajkova na Facebooku"
 date: 2012-12-08
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - facebook
 authors: 

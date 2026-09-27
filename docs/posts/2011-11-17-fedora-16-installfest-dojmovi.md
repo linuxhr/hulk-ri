@@ -2,7 +2,7 @@
 title: "Fedora 16 InstallFest: dojmovi"
 date: 2011-11-17
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - installfest
   - linux

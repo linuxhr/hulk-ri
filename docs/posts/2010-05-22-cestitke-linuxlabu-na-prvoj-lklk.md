@@ -2,7 +2,7 @@
 title: "Čestitke LinuxLabu na prvoj LKLK"
 date: 2010-05-22
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - konferencija

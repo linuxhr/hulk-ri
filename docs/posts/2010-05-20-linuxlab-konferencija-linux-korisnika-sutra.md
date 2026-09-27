@@ -2,7 +2,7 @@
 title: "LinuxLab konferencija Linux korisnika sutra!"
 date: 2010-05-20
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - gtk
   - linuxlab

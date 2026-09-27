@@ -5,7 +5,7 @@ authors:
   - vedranm
 ---
 
-Osnovni cilj [Riječke podružnice](podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) je **promocija korištenja Linuxa i slobodnog softvera otvorenog koda**.
+Osnovni cilj [Riječke podružnice](podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) je **promocija korištenja Linuxa i slobodnog softvera otvorenog koda**.
 
 Dodatni specifični ciljevi su:
 

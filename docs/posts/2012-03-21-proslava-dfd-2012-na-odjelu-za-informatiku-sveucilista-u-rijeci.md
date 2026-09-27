@@ -2,7 +2,7 @@
 title: "Proslava DFD 2012 na Odjelu za informatiku Sveučilišta u Rijeci"
 date: 2012-03-21
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - document-foundation

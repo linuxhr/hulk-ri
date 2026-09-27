@@ -2,7 +2,7 @@
 title: "Obilježen Dan slobode dokumenata 2019"
 date: 2019-03-29
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - libreoffice

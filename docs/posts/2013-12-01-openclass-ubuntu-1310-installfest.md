@@ -2,7 +2,7 @@
 title: "OpenClass: Ubuntu 13.10 InstallFest"
 date: 2013-12-01
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - installfest
   - openclass
@@ -11,7 +11,7 @@ authors:
   - domargan
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na OpenClass
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na OpenClass
 
 ## Ubuntu 13.10 InstallFest
 

@@ -5,7 +5,7 @@ authors:
   - vedranm
 ---
 
-Trenutni članovi [Riječke podružnice](podruznica.md) [HULK-a](http://www.linux.hr/) (navedeni su u formatu **ime**, fakultet ili tvrtka, _preferirana distribucija_):
+Trenutni članovi [Riječke podružnice](podružnica.md) [HULK-a](http://www.linux.hr/) (navedeni su u formatu **ime**, fakultet ili tvrtka, _preferirana distribucija_):
 
 - [**Vedran**](https://vedran.miletic.net/) [**Miletić**](https://www.miletic.net/), [GASERI](https://group.miletic.net/)/[Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/), _Fedora_ (koordinator podružnice)
 - [**Domagoj Margan**](https://domargan.net/), [Imperial College London](https://www.imperial.ac.uk/), _Debian_
@@ -144,7 +144,7 @@ Apsolvent sam filozofije i informatike na [Filozofskom fakultetu Sveučilišta u
 
 ## Grupe
 
-[Riječka podružnica](podruznica.md) [HULK-a](http://www.linux.hr/) podijeljena je u tri grupe koje okupljaju ljude sa zajedničkim interesima. Svaki član podružnice, radi jednostavnosti, član je točno jedne grupe koja je pokazatelj primarnog područja interesa, što ga ne ograničava u suradnji s ostalima i radu u drugim područjima.
+[Riječka podružnica](podružnica.md) [HULK-a](http://www.linux.hr/) podijeljena je u tri grupe koje okupljaju ljude sa zajedničkim interesima. Svaki član podružnice, radi jednostavnosti, član je točno jedne grupe koja je pokazatelj primarnog područja interesa, što ga ne ograničava u suradnji s ostalima i radu u drugim područjima.
 
 ### Administracija i Linux distribucije
 

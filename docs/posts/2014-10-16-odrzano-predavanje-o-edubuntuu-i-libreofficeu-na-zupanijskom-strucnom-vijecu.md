@@ -2,7 +2,7 @@
 title: "Održano predavanje o Edubuntuu i LibreOfficeu na Županijskom stručnom vijeću"
 date: 2014-10-16
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - edubuntu
   - libreoffice

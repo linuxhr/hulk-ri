@@ -2,7 +2,7 @@
 title: "Izvještaj sa LKLK 2010."
 date: 2010-05-29
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - konferencija
   - linuxlab

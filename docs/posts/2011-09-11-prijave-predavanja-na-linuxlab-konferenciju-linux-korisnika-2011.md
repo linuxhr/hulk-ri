@@ -2,7 +2,7 @@
 title: "Prijave predavanja na LinuxLab konferenciju Linux korisnika 2011"
 date: 2011-09-11
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - konfere
   - linux

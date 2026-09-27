@@ -2,7 +2,7 @@
 title: "Krenuli smo ponovno!"
 date: 2009-10-11
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - hulk
   - linux

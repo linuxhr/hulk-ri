@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Povijest tipografije\""
 date: 2010-03-03
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - context
   - latex
@@ -16,7 +16,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
 
 ## Povijest tipografije (s pričom kako je TeX učinio da je tisuće znanstvenika zavole)
 

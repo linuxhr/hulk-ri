@@ -2,7 +2,7 @@
 title: "Drugi InstallFest vrlo uspješan!"
 date: 2011-05-27
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - broacom
   - fedora

@@ -2,7 +2,7 @@
 title: "Promjena mjesta održavanja sutrašnjeg OpenClassa"
 date: 2010-06-13
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - openclass
   - promjena

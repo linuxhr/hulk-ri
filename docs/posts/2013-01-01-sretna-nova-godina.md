@@ -2,7 +2,7 @@
 title: "Sretna nova godina!"
 date: 2013-01-01
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - nova-godina
 authors: 

@@ -2,7 +2,7 @@
 title: "CentOS mirroran na Sveučilištu u Rijeci"
 date: 2017-09-23
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - centos
   - debian

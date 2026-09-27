@@ -2,7 +2,7 @@
 title: "LinuxLab konferencija Linux korisnika"
 date: 2010-05-04
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - konferencija
   - linux

@@ -2,7 +2,7 @@
 title: "Obilježavanje Dana slobode dokumenata 27. ožujka 2019. u Rijeci"
 date: 2019-03-22
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - libreoffice

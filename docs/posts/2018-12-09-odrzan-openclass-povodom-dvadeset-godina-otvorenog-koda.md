@@ -2,7 +2,7 @@
 title: "Održan OpenClass povodom dvadeset godina otvorenog koda"
 date: 2018-12-09
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - gnu
   - linux

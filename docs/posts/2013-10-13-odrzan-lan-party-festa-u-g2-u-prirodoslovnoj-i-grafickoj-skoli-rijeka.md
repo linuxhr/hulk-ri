@@ -2,7 +2,7 @@
 title: "Održan LAN party \"Fešta u G2\" u Prirodoslovnoj i grafičkoj školi Rijeka"
 date: 2013-10-13
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - amd
   - apu

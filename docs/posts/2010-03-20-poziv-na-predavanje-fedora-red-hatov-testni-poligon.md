@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Fedora: Red Hatov testni poligon?\""
 date: 2010-03-20
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - linux
@@ -15,7 +15,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) pod naslovom:
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) pod naslovom:
 
 ## Fedora: Red Hatov testni poligon?
 

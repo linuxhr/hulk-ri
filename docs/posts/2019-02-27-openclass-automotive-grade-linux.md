@@ -2,7 +2,7 @@
 title: "OpenClass: Automotive Grade Linux"
 date: 2019-02-27
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - automotive
   - linux
@@ -13,7 +13,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati četvrtak, **28\. veljače 2019. u 14 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-357. OpenClass pod naslovom
+[Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati četvrtak, **28\. veljače 2019. u 14 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-357. OpenClass pod naslovom
 
 ## Automotive Grade Linux
 

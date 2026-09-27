@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Blackbox i rxvt\""
 date: 2009-12-01
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - blackbox
   - cygwin
@@ -14,7 +14,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na predavanje
 
 ## Blackbox i rxvt (da, može i pod Windowsima)
 

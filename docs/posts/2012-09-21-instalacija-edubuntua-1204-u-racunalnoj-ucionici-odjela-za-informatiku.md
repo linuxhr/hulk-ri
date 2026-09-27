@@ -2,7 +2,7 @@
 title: "Instalacija Edubuntua 12.04 u računalnoj učionici Odjela za informatiku"
 date: 2012-09-21
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - edubuntu
   - libreoffice

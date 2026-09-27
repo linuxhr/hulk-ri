@@ -2,7 +2,7 @@
 title: "Odgoda OpenClassa o NumPyu"
 date: 2012-06-28
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - numpy
   - openclass

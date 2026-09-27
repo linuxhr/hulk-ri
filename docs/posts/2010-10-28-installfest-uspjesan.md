@@ -2,7 +2,7 @@
 title: "InstallFest uspješan!"
 date: 2010-10-28
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - 3g
   - audio

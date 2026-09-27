@@ -2,7 +2,7 @@
 title: "LKLK 2013 sutra i preksutra!"
 date: 2013-11-28
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - android
   - debian

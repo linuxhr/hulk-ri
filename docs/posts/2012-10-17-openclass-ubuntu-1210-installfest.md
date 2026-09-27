@@ -2,7 +2,7 @@
 title: "OpenClass: Ubuntu 12.10 InstallFest"
 date: 2012-10-17
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - installfest
   - openclass
@@ -11,7 +11,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na OpenClass
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na OpenClass
 
 ## Ubuntu 12.10 InstallFest
 

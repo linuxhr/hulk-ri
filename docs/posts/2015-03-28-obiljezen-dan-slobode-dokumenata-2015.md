@@ -2,7 +2,7 @@
 title: "Obilježen Dan slobode dokumenata 2015"
 date: 2015-03-28
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - document-foundation

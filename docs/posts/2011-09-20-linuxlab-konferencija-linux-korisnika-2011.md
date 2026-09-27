@@ -2,7 +2,7 @@
 title: "LinuxLab konferencija Linux korisnika 2011"
 date: 2011-09-20
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - audio
   - geogebra

@@ -2,7 +2,7 @@
 title: "Zatvaranje OpenClass sezone"
 date: 2010-06-05
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - diskusija
   - openclass

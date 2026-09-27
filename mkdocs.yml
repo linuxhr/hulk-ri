@@ -7,10 +7,11 @@ copyright: >-
   Linux korisnika</a>. All rights reserved. Source code
   <a href="https://github.com/linuxhr/hulk-ri">available</a>. Mirrored on
   <a href="https://pages.github.com/">GitHub Pages</a>; deployed using
-  <a href="https://group.miletic.net/en/blog/2022-11-01-publishing-material-for-mkdocs-website-to-github-pages-using-custom-actions-workflow/">GitHub Actions workflow from GASERI</a>.
+  <a href="https://gaseri.org/en/blog/2026-04-14-the-future-of-mkdocs-properdocs-and-zensical/#zensical">GitHub Actions workflow from GASERI</a>.
 
 theme:
   name: material
+  variant: classic
   language: hr
   logo: assets/images/logo.png
   favicon: assets/images/favicon.png
@@ -51,11 +52,8 @@ plugins:
       post_slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
-          normalize: NFD
-      archive_url_date_format: yyyy/MM
-      archive_url_format: "{date}"
-  - tags:
-      tags_file: oznake.md
+          normalize: NFC
+  - tags
   - rss:
       match_path: posts/.*
       date_from_meta:
@@ -63,3 +61,69 @@ plugins:
       categories:
         - categories
         - tags
+  - redirects:
+      redirect_maps:
+        'podruznica.md': 'podružnica.md'
+        # Blog category URLs, including generated pagination pages
+        'category/podruznica.md': 'category/podružnica.md'
+        'category/podruznica/page/2.md': 'category/podružnica/page/2.md'
+        'category/sveuciliste.md': 'category/sveučilište.md'
+        'category/sveuciliste/page/2.md': 'category/sveučilište/page/2.md'
+        'category/sveuciliste/page/3.md': 'category/sveučilište/page/3.md'
+        'category/sveuciliste/page/4.md': 'category/sveučilište/page/4.md'
+        'category/sveuciliste/page/5.md': 'category/sveučilište/page/5.md'
+        'category/sveuciliste/page/6.md': 'category/sveučilište/page/6.md'
+        'category/sveuciliste/page/7.md': 'category/sveučilište/page/7.md'
+        'category/sveuciliste/page/8.md': 'category/sveučilište/page/8.md'
+        'category/sveuciliste/page/9.md': 'category/sveučilište/page/9.md'
+        # Blog posts with slugs changed by NFD -> NFC normalization
+        '2009/10/23/izvrsena-nadogradnja-na-wordpress-285.md': 'posts/2009-10-23-izvrsena-nadogradnja-na-wordpress-285.md'
+        '2009/10/28/odrzano-prvo-predavanje.md': 'posts/2009-10-28-odrzano-prvo-predavanje.md'
+        '2009/11/11/odrzano-drugo-predavanje.md': 'posts/2009-11-11-odrzano-drugo-predavanje.md'
+        '2009/11/18/izasle-nove-verzije-gotovo-svih-vaznijih-distribucija.md': 'posts/2009-11-18-izasle-nove-verzije-gotovo-svih-vaznijih-distribucija.md'
+        '2009/12/19/izvrsena-nadogradnja-na-wordpress-29-i-temu-mystique.md': 'posts/2009-12-19-izvrsena-nadogradnja-na-wordpress-29-i-temu-mystique.md'
+        '2010/02/09/poziv-na-predavanje-xorg-nije-zastario-i-ne-treba-ga-pisati-ispocetka.md': 'posts/2010-02-09-poziv-na-predavanje-xorg-nije-zastario-i-ne-treba-ga-pisati-ispocetka.md'
+        '2010/03/03/novosti-na-webu-podruznice.md': 'posts/2010-03-03-novosti-na-webu-podruznice.md'
+        '2010/04/18/eksperimentalno-video-snimanje-predavanja-uspjesno.md': 'posts/2010-04-18-eksperimentalno-video-snimanje-predavanja-uspjesno.md'
+        '2010/05/22/cestitke-linuxlabu-na-prvoj-lklk.md': 'posts/2010-05-22-cestitke-linuxlabu-na-prvoj-lklk.md'
+        '2010/05/29/izvjestaj-sa-lklk-2010.md': 'posts/2010-05-29-izvjestaj-sa-lklk-2010.md'
+        '2010/06/13/promjena-mjesta-odrzavanja-sutrasnjeg-openclassa.md': 'posts/2010-06-13-promjena-mjesta-odrzavanja-sutrasnjeg-openclassa.md'
+        '2010/08/25/jesen-nam-se-blizi.md': 'posts/2010-08-25-jesen-nam-se-blizi.md'
+        '2010/10/28/installfest-uspjesan.md': 'posts/2010-10-28-installfest-uspjesan.md'
+        '2011/05/27/drugi-installfest-vrlo-uspjesan.md': 'posts/2011-05-27-drugi-installfest-vrlo-uspjesan.md'
+        '2011/10/02/instalacija-fedore-na-racunala-u-ucionici-i3-riteh.md': 'posts/2011-10-02-instalacija-fedore-na-racunala-u-ucionici-i3-riteh.md'
+        '2011/10/08/instalacija-fedore-na-racunalima-u-412-odjel-za-matematiku-i-odjel-za-fiziku.md': 'posts/2011-10-08-instalacija-fedore-na-racunalima-u-412-odjel-za-matematiku-i-odjel-za-fiziku.md'
+        '2011/10/23/hrvatski-linux-prirucnik.md': 'posts/2011-10-23-hrvatski-linux-prirucnik.md'
+        '2011/10/29/irc-kanal-na-freenode-mrezi.md': 'posts/2011-10-29-irc-kanal-na-freenode-mrezi.md'
+        '2012/03/18/pripreme-za-obiljezavanje-dfd-2012-na-odjelu-za-informatiku-sveucilista-u-rijeci.md': 'posts/2012-03-18-pripreme-za-obiljezavanje-dfd-2012-na-odjelu-za-informatiku-sveucilista-u-rijeci.md'
+        '2012/03/21/proslava-dfd-2012-na-odjelu-za-informatiku-sveucilista-u-rijeci.md': 'posts/2012-03-21-proslava-dfd-2012-na-odjelu-za-informatiku-sveucilista-u-rijeci.md'
+        '2012/09/14/osvjezen-dizajn-stranica.md': 'posts/2012-09-14-osvjezen-dizajn-stranica.md'
+        '2012/09/21/instalacija-edubuntua-1204-u-racunalnoj-ucionici-odjela-za-informatiku.md': 'posts/2012-09-21-instalacija-edubuntua-1204-u-racunalnoj-ucionici-odjela-za-informatiku.md'
+        '2012/10/08/instalacija-debiana-u-racunalnoj-ucionici-o-130-odjel-za-fiziku-sveucilista-u-rijeci.md': 'posts/2012-10-08-instalacija-debiana-u-racunalnoj-ucionici-o-130-odjel-za-fiziku-sveucilista-u-rijeci.md'
+        '2012/12/08/dosli-smo-do-300-lajkova-na-facebooku.md': 'posts/2012-12-08-dosli-smo-do-300-lajkova-na-facebooku.md'
+        '2012/12/08/teme-buducih-openclassova.md': 'posts/2012-12-08-teme-buducih-openclassova.md'
+        '2013/01/12/redovna-godisnja-skupstina-hulk-a-2013.md': 'posts/2013-01-12-redovna-godisnja-skupstina-hulk-a-2013.md'
+        '2013/03/24/instalacija-edubuntua-1204-na-ritehu-u-terminalskoj-racunalnoj-ucionici-i8.md': 'posts/2013-03-24-instalacija-edubuntua-1204-na-ritehu-u-terminalskoj-racunalnoj-ucionici-i8.md'
+        '2013/03/24/proslava-dfd-2013-na-odjelu-za-informatiku-sveucilista-u-rijeci.md': 'posts/2013-03-24-proslava-dfd-2013-na-odjelu-za-informatiku-sveucilista-u-rijeci.md'
+        '2013/04/30/dorscluc-2013-obavijest-za-studente-sveucilista-u-rijeci-oziriteh.md': 'posts/2013-04-30-dorscluc-2013-obavijest-za-studente-sveucilista-u-rijeci-oziriteh.md'
+        '2013/09/22/instalacija-edubuntua-1204-i-debiana-71-u-prirodoslovnoj-i-grafickoj-skoli-u-terminalskoj-racunalnoj-ucionici.md': 'posts/2013-09-22-instalacija-edubuntua-1204-i-debiana-71-u-prirodoslovnoj-i-grafickoj-skoli-u-terminalskoj-racunalnoj-ucionici.md'
+        '2013/10/13/odrzan-lan-party-festa-u-g2-u-prirodoslovnoj-i-grafickoj-skoli-rijeka.md': 'posts/2013-10-13-odrzan-lan-party-festa-u-g2-u-prirodoslovnoj-i-grafickoj-skoli-rijeka.md'
+        '2014/02/13/redovna-godisnja-skupstina-hulk-a-2014.md': 'posts/2014-02-13-redovna-godisnja-skupstina-hulk-a-2014.md'
+        '2014/03/09/osvjezenje-stranice.md': 'posts/2014-03-09-osvjezenje-stranice.md'
+        '2014/10/16/odrzano-predavanje-o-edubuntuu-i-libreofficeu-na-zupanijskom-strucnom-vijecu.md': 'posts/2014-10-16-odrzano-predavanje-o-edubuntuu-i-libreofficeu-na-zupanijskom-strucnom-vijecu.md'
+        '2015/03/06/obiljezavanje-dana-slobode-dokumenata-2015.md': 'posts/2015-03-06-obiljezavanje-dana-slobode-dokumenata-2015.md'
+        '2015/03/19/dan-slobode-dokumenata-25-ozujka-2015-u-rijeci.md': 'posts/2015-03-19-dan-slobode-dokumenata-25-ozujka-2015-u-rijeci.md'
+        '2015/03/24/najava-obiljezavanja-dfd-a-2015-na-radiju-sova.md': 'posts/2015-03-24-najava-obiljezavanja-dfd-a-2015-na-radiju-sova.md'
+        '2015/03/28/obiljezen-dan-slobode-dokumenata-2015.md': 'posts/2015-03-28-obiljezen-dan-slobode-dokumenata-2015.md'
+        '2017/08/05/web-sjediste-ponovno-online.md': 'posts/2017-08-05-web-sjediste-ponovno-online.md'
+        '2017/09/23/centos-mirroran-na-sveucilistu-u-rijeci.md': 'posts/2017-09-23-centos-mirroran-na-sveucilistu-u-rijeci.md'
+        '2018/04/01/hulk-ri-je-zasticen-od-ruskih-hakera.md': 'posts/2018-04-01-hulk-ri-je-zasticen-od-ruskih-hakera.md'
+        '2018/11/29/pocinje-sezona-openclassova-20182019.md': 'posts/2018-11-29-pocinje-sezona-openclassova-20182019.md'
+        '2018/12/03/openclass-gnulinux-mozilla-i-prijatelji-jucer-danas-i-sutra-obiljezavanje-dvadeset-godina-otvorenog-koda.md': 'posts/2018-12-03-openclass-gnulinux-mozilla-i-prijatelji-jucer-danas-i-sutra-obiljezavanje-dvadeset-godina-otvorenog-koda.md'
+        '2018/12/09/odrzan-openclass-povodom-dvadeset-godina-otvorenog-koda.md': 'posts/2018-12-09-odrzan-openclass-povodom-dvadeset-godina-otvorenog-koda.md'
+        '2018/12/13/openclass-proslava-dana-slobode-racunalne-grafike-i-racunanja-na-grafickim-procesorima-2018.md': 'posts/2018-12-13-openclass-proslava-dana-slobode-racunalne-grafike-i-racunanja-na-grafickim-procesorima-2018.md'
+        '2018/12/28/obiljezen-dan-slobode-racunalne-grafike-i-racunanja-na-grafickim-procesorima-2018.md': 'posts/2018-12-28-obiljezen-dan-slobode-racunalne-grafike-i-racunanja-na-grafickim-procesorima-2018.md'
+        '2019/02/05/openclass-zasto-je-ibm-kupio-red-hat-a-mogao-ga-je-besplatno-skinuti-pod-imenom-centos.md': 'posts/2019-02-05-openclass-zasto-je-ibm-kupio-red-hat-a-mogao-ga-je-besplatno-skinuti-pod-imenom-centos.md'
+        '2019/03/22/obiljezavanje-dana-slobode-dokumenata-27-ozujka-2019-u-rijeci.md': 'posts/2019-03-22-obiljezavanje-dana-slobode-dokumenata-27-ozujka-2019-u-rijeci.md'
+        '2019/03/29/obiljezen-dan-slobode-dokumenata-2019.md': 'posts/2019-03-29-obiljezen-dan-slobode-dokumenata-2019.md'
+        '2019/12/12/hulk-ri-sudjelovao-na-1-zaokruzivanju-tech-godine-it-zajednice-rijeka.md': 'posts/2019-12-12-hulk-ri-sudjelovao-na-1-zaokruzivanju-tech-godine-it-zajednice-rijeka.md'

@@ -2,7 +2,7 @@
 title: "IRC kanal na freenode mreži"
 date: 2011-10-29
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - freenode
   - irc

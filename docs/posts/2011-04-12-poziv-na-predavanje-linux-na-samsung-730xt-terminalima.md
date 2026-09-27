@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Linux na Samsung 730XT terminalima\""
 date: 2011-04-12
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - debian
   - openclass
@@ -12,7 +12,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
+[Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
 
 ## Linux na Samsung 730XT terminalima
 

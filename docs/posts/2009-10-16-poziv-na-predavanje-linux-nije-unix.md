@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Linux nije Unix!\""
 date: 2009-10-16
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - linux
   - predavanje
@@ -13,7 +13,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na kontroverzno predavanje
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na kontroverzno predavanje
 
 ## Linux nije Unix! (ali Sun Solaris OS jest!)
 

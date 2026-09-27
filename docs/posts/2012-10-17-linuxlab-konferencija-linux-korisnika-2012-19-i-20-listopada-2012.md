@@ -2,7 +2,7 @@
 title: "LinuxLab konferencija Linux korisnika 2012, 19. i 20. listopada 2012."
 date: 2012-10-17
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - linux
   - linuxlab

@@ -2,7 +2,7 @@
 title: "Fedora 16 izlazi sutra. InstallFest u planu"
 date: 2011-11-07
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
 authors: 

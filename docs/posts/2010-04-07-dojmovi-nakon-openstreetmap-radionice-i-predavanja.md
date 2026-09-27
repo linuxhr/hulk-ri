@@ -2,7 +2,7 @@
 title: "Dojmovi nakon OpenStreetMap radionice i predavanja"
 date: 2010-04-07
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - hulk
   - java

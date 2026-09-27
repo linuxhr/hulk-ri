@@ -2,7 +2,7 @@
 title: "Dan slobode dokumenata 25. ožujka 2015. u Rijeci"
 date: 2015-03-19
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - dfd
   - diskusija

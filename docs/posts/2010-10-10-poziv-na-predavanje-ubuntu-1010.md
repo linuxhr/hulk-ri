@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Ubuntu 10.10\""
 date: 2010-10-10
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - openclass
   - predavanje
@@ -11,7 +11,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
 
 ## Ubuntu (povodom izlaska verzije 10.10)
 

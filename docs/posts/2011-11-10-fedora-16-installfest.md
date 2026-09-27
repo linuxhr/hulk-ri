@@ -2,7 +2,7 @@
 title: "Fedora 16 InstallFest"
 date: 2011-11-10
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - installfest
@@ -13,7 +13,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na OpenClass
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na OpenClass
 
 ## Fedora 16 InstallFest
 

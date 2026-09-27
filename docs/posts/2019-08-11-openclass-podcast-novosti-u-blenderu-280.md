@@ -2,7 +2,7 @@
 title: "OpenClass podcast: Novosti u Blenderu 2.80"
 date: 2019-08-11
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - blender
   - openclass

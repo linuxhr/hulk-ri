@@ -2,7 +2,7 @@
 title: "Lokalizacija softvera s Translation Projecta"
 date: 2010-11-07
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - diffutils
   - i3

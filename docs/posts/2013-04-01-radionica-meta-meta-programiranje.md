@@ -2,7 +2,7 @@
 title: "Radionica: meta-meta-programiranje"
 date: 2013-04-01
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - april-fools
   - c

@@ -2,7 +2,7 @@
 title: "Poziv na predavanje \"Ubuntu\""
 date: 2010-04-25
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - canonical
   - lts
@@ -13,7 +13,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) pod naslovom:
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) pod naslovom:
 
 ## Ubuntu (povodom izlaska verzije 10.04 LTS)
 

@@ -2,7 +2,7 @@
 title: "Izvršena nadogradnja na WordPress 2.8.5"
 date: 2009-10-23
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - hulk
   - rijeka

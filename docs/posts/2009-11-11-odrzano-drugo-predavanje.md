@@ -2,7 +2,7 @@
 title: "Održano drugo predavanje"
 date: 2009-11-11
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - firefox

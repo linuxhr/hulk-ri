@@ -2,7 +2,7 @@
 title: "Osvježen dizajn stranica"
 date: 2012-09-14
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - web
   - wordpress

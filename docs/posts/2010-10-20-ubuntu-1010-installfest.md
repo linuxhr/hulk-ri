@@ -2,7 +2,7 @@
 title: "Ubuntu 10.10 InstallFest"
 date: 2010-10-20
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - installfest
   - openclass
@@ -11,7 +11,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
+[Riječka podružnica](../podružnica.md) [HULK-a](http://www.linux.hr/) i [Odjel za informatiku](https://www.inf.uniri.hr/) [Sveučilišta u Rijeci](https://uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass)
 
 ## Ubuntu 10.10 InstallFest
 

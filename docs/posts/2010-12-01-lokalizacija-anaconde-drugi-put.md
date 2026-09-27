@@ -2,7 +2,7 @@
 title: "Lokalizacija Anaconde, drugi put"
 date: 2010-12-01
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - anaconda
   - fedora

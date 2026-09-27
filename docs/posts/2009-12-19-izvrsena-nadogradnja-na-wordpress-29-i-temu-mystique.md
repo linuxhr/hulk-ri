@@ -2,7 +2,7 @@
 title: "Izvršena nadogradnja na WordPress 2.9 i temu Mystique"
 date: 2009-12-19
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - hulk
   - web

@@ -2,7 +2,7 @@
 title: "Osvježenje stranice"
 date: 2014-03-09
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - wordpress
 authors: 

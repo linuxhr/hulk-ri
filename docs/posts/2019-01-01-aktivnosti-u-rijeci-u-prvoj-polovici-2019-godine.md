@@ -2,7 +2,7 @@
 title: "Aktivnosti u Rijeci u prvoj polovici 2019. godine"
 date: 2019-01-01
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - centos
   - ci
@@ -48,7 +48,7 @@ Izvor slike: [Pixabay](https://pixabay.com/vectors/christmas-santa-claus-tux-xma
 
 Najave svih događaja ići će pravovremeno na našim komunikacijskim kanalima pa nas pratite.
 
-[Pratite nas na Facebooku, Twitteru i Zulipu](../podruznica.md#komunikacijski-kanali-hulk-ri)!
+[Pratite nas na Facebooku, Twitteru i Zulipu](../podružnica.md#komunikacijski-kanali-hulk-ri)!
 
 ## Lokacija održavanja aktivnosti
 

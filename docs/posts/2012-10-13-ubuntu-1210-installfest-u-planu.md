@@ -2,7 +2,7 @@
 title: "Ubuntu 12.10 InstallFest u planu"
 date: 2012-10-13
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - installfest
   - ubuntu

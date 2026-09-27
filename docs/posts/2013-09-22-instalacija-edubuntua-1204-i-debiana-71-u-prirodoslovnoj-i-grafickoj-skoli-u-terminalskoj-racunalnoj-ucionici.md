@@ -2,7 +2,7 @@
 title: "Instalacija Edubuntua 12.04 i Debiana 7.1 u Prirodoslovnoj i grafičkoj školi u terminalskoj računalnoj učionici"
 date: 2013-09-22
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - debian
   - edubuntu

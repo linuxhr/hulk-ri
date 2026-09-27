@@ -2,7 +2,7 @@
 title: "Novosti na webu podružnice"
 date: 2010-03-03
 categories: 
-  - podruznica
+  - podružnica
 tags: 
   - hulk
   - rijeka

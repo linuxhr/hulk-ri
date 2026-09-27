@@ -2,7 +2,7 @@
 title: "Instalacija Debiana u računalnoj učionici O-130 (Odjel za fiziku Sveučilišta u Rijeci)"
 date: 2012-10-08
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - debian
   - fedora

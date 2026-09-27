@@ -2,7 +2,7 @@
 title: "Instalacija Fedore na računala u učionici I3 (RiTeh)"
 date: 2011-10-02
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - deltarpm
   - fedora

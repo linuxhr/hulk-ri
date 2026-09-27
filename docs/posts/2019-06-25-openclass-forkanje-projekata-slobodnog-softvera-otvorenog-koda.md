@@ -2,7 +2,7 @@
 title: "OpenClass: Forkanje projekata slobodnog softvera otvorenog koda"
 date: 2019-06-25
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - ffmpeg
   - fork
@@ -14,7 +14,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na posljednji ovosezonski [OpenClass](../aktivnosti.md#openclass) koji će se održati u srijedu, **26\. lipnja 2019. u 12 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-357. OpenClass pod naslovom
+[Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na posljednji ovosezonski [OpenClass](../aktivnosti.md#openclass) koji će se održati u srijedu, **26\. lipnja 2019. u 12 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-357. OpenClass pod naslovom
 
 ## Forkanje projekata slobodnog softvera otvorenog koda
 

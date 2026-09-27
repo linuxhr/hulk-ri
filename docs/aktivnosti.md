@@ -9,7 +9,7 @@ Na ovoj stranici bilježe se podaci o aktivnosti članova udruge i suradnika, ka
 
 ## OpenClass
 
-**OpenClass** je [zajednički projekt](https://www.inf.uniri.hr/znanstveni-i-strucni-rad/predavanja-i-radionice/open-class) [Riječke podružnice](podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjela za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/). Cilj je, prvenstveno studentima [Sveučilišta u Rijeci](https://uniri.hr/), ali i ostalim zainteresiranima, kroz predavanja i mini-radionice prezentirati aktualne teme i značajne projekte iz područja slobodnog softvera.
+**OpenClass** je [zajednički projekt](https://www.inf.uniri.hr/znanstveni-i-strucni-rad/predavanja-i-radionice/open-class) [Riječke podružnice](podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjela za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/). Cilj je, prvenstveno studentima [Sveučilišta u Rijeci](https://uniri.hr/), ali i ostalim zainteresiranima, kroz predavanja i mini-radionice prezentirati aktualne teme i značajne projekte iz područja slobodnog softvera.
 
 Na ovoj stranici možete pronaći popis do sada održanih predavanja sa posterima, sažecima, prezentacijama i video snimkama nekih predavanja.
 
@@ -292,4 +292,4 @@ Motivirajući primjer korištenja Linuxa u nastavi drugdje: [škola Penn Manor](
 
 ### Koristite Linux u nastavi?
 
-[Javite se koordinatoru](podruznica.md#kako-do-koordinatora) s kratkim opisom pa će vas dodati na ovaj popis.
+[Javite se koordinatoru](podružnica.md#kako-do-koordinatora) s kratkim opisom pa će vas dodati na ovaj popis.

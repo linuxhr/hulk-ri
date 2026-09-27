@@ -2,7 +2,7 @@
 title: "Najava 5. LKLK konferencija 24. i 25. listopada u Rijeci"
 date: 2014-10-18
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - konferencija
   - lklk

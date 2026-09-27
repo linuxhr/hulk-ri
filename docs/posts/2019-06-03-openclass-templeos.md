@@ -2,7 +2,7 @@
 title: "OpenClass: TempleOS"
 date: 2019-06-03
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - holyc
   - meme
@@ -12,7 +12,7 @@ authors:
   - vedranm
 ---
 
-[Riječka podružnica](../podruznica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati utorak, **4\. lipnja 2019. u 14 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-357. OpenClass pod naslovom
+[Riječka podružnica](../podružnica.md) [Hrvatske udruge Linux korisnika](http://www.linux.hr/) i [Odjel za informatiku Sveučilišta u Rijeci](https://www.inf.uniri.hr/) pozivaju vas na [OpenClass](../aktivnosti.md#openclass) koji će se održati utorak, **4\. lipnja 2019. u 14 sati**, u [zgradi Sveučilišnih odjela](https://www.openstreetmap.org/way/436306129), prostorija O-357. OpenClass pod naslovom
 
 ## TempleOS: a biblical-themed, lightweight open source operating system
 

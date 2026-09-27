@@ -2,7 +2,7 @@
 title: "Eksperimentalno video snimanje predavanja uspješno!"
 date: 2010-04-18
 categories: 
-  - sveuciliste
+  - sveučilište
 tags: 
   - fedora
   - html5
